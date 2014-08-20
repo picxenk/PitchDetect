@@ -8,6 +8,6 @@ Check it out, feel free to fork, submit pull requests, etc.  MIT-Licensed - part
 
 -Chris
 
-# Changes
+## Changes by picxenk
  * fork from https://github.com/cwilso/pitchdetect
  * reduce a library to use live input only.
